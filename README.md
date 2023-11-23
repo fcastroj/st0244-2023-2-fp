@@ -4,5 +4,5 @@
 - Programming Language: C / C++ (Version C++: 14.0.0)
 - Software Prover Tool: CBMC Model Checker
 - Detailed Instructions: (1) Go to the next repository 'https://github.com/diffblue/cbmccbmc' and follow the instructions to install CBMC.  (2) In the terminal/shell execute this command 'cbmc c.cpp', remember that you gotta be at the folder/directory where you downloaded the file 'c.cpp'.
-
+- References: Official Github (https://github.com/diffblue/cbmc), CBMC Homepage (https://www.cprover.org/cbmc/), CBMC Training (https://model-checking.github.io/cbmc-training/faq/cbmc.html), Video (https://www.youtube.com/watch?v=AbMr7jzKBhE&ab_channel=KindsonTheGenius) 
  
